@@ -1,0 +1,82 @@
+{
+    "name" : "Instituto Politécnico Nacional",
+    "type" : "Medio Superior",
+    "schools" : [
+      {
+        "name": "Gonzalo Vázquez Vela" ,
+        "number":"1"
+      },
+      {
+        "name": "Miguel bernard Perales" ,
+        "number":"2"
+      },
+      {
+        "name": "Estanislao Ramires Ruíz" ,
+        "number":"3"
+      },
+      {
+        "name": "Lázaro Cardenas" ,
+        "number":"4"
+      },
+      {
+        "name": "Benito Juárez García" ,
+        "number":"5"
+      },
+      {
+        "name": "Miguel Othón de Medizabal" ,
+        "number":"6"
+      },
+      {
+        "name": "Cuauhtémoc" ,
+        "number":"7"
+      },
+      {
+        "name": "Narciso Bassols García" ,
+        "number":"8"
+      },
+      {
+        "name": "juan de Dios Bátiz Paredes" ,
+        "number":"9"
+      },
+      {
+        "name": "Carlos Vallejo Márquez" ,
+        "number":"10"
+      },
+      {
+        "name": "Wilfrido Massieu" ,
+        "number":"11"
+      },
+      {
+        "name": "Jose María Morelos" ,
+        "number":"12"
+      },
+      {
+        "name": "Ricardo Flores Magón" ,
+        "number":"13"
+      },
+      {
+        "name": "luis Enrrique Erro Soler" ,
+        "number":"14"
+      },
+      {
+        "name": "Diódoro Antúnez Echagaray" ,
+        "number":"15"
+      },
+      {
+        "name": "Unidad Hidalgo" ,
+        "number":"16"
+      },
+      {
+        "name": "Unidad Guanajuato" ,
+        "number":"17"
+      },
+      {
+        "name": "Unidad de Zacatecas" ,
+        "number":"18"
+      },
+      {
+        "name": "Leona vicario Unidad Tecámac" ,
+        "number":"19"
+      }
+    ]
+}
