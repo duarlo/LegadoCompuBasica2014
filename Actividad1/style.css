@@ -35,3 +35,46 @@ footer
     background-color: rgba(138,19,19,0.8);
     border-radius: 10px;
 }
+
+.view-container
+{
+    background-color: ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 10px;
+    background: rgb(138,19,19);
+    background: linear-gradient(0deg, rgba(138,19,19,1) 0%, rgba(236,216,216,1) 40%, rgba(255,255,255,1) 100%);
+    outline:  3px solid rgba(138,19,19,0.8);
+}
+
+h2.view-container
+{
+    width: 85vw;
+    padding: 2vh;
+}
+
+h3.view-container
+{
+    width: 75vw;
+    padding: 2vh;
+}
+
+h4.view-container
+{
+    width: 65vw;
+    padding: 2vh;
+}
+
+h5.view-container
+{
+    width: 55vw;
+    padding: 2vh;
+}
+
+h6.view-container
+{
+    width: 45vw;
+    padding: 2vh;
+}

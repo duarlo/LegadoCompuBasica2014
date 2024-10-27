@@ -1,82 +1,108 @@
 {
     "name" : "Instituto Politécnico Nacional",
     "type" : "Medio Superior",
-    "schools" : [
+    "school1" : [
       {
         "name": "Gonzalo Vázquez Vela" ,
-        "number":"1"
+        "number":"1",
+        "image": "https://www.cecyt1.ipn.mx/assets/files/mediaSuperior/img/logotipos/CECyT1.png"
       },
       {
         "name": "Miguel bernard Perales" ,
-        "number":"2"
+        "number":"2",
+        "image":"https://www.cecyt2.ipn.mx/assets/files/cecyt2/img/pag%20principal/Iconos/CECyT2.png"
       },
       {
         "name": "Estanislao Ramires Ruíz" ,
-        "number":"3"
+        "number":"3",
+        "image":"https://www.cecyt3.ipn.mx/img/logoC3.svg"
       },
       {
         "name": "Lázaro Cardenas" ,
-        "number":"4"
+        "number":"4",
+        "image": "https://www.cecyt4.ipn.mx/assets/files/cecyt4/img/conocenos/CECyT4.png"
       },
       {
         "name": "Benito Juárez García" ,
-        "number":"5"
+        "number":"5",
+        "image":"https://www.cecyt5.ipn.mx/assets/files/cecyt5/img/iconografia/CECyT5.png"
       },
       {
         "name": "Miguel Othón de Medizabal" ,
-        "number":"6"
+        "number":"6",
+        "image":"https://www.cecyt6.ipn.mx/assets/files/cecyt6/imagenes/logo/v6.png"
       },
       {
         "name": "Cuauhtémoc" ,
-        "number":"7"
+        "number":"7",
+        "image":"https://www.cecyt7.ipn.mx/assets/files/cecyt7/img/inicio/61.png"
       },
       {
         "name": "Narciso Bassols García" ,
-        "number":"8"
+        "number":"8",
+        "image":"https://www.cecyt8.ipn.mx/assets/files/cecyt8/assets/uploads/EscudoCecyt802-01.png"
       },
       {
         "name": "juan de Dios Bátiz Paredes" ,
-        "number":"9"
+        "number":"9",
+        "image":" "
       },
       {
         "name": "Carlos Vallejo Márquez" ,
-        "number":"10"
+        "number":"10",
+        "image":" "
       },
       {
         "name": "Wilfrido Massieu" ,
-        "number":"11"
+        "number":"11",
+        "image":" "
       },
       {
         "name": "Jose María Morelos" ,
-        "number":"12"
+        "number":"12",
+        "image":" "
       },
       {
         "name": "Ricardo Flores Magón" ,
-        "number":"13"
+        "number":"13",
+        "image":" "
       },
       {
         "name": "luis Enrrique Erro Soler" ,
-        "number":"14"
+        "number":"14",
+        "image":" "
       },
       {
         "name": "Diódoro Antúnez Echagaray" ,
-        "number":"15"
+        "number":"15",
+        "image":" "
       },
       {
         "name": "Unidad Hidalgo" ,
-        "number":"16"
+        "number":"16",
+        "image":" "
       },
       {
         "name": "Unidad Guanajuato" ,
-        "number":"17"
+        "number":"17",
+        "image":" "
       },
       {
         "name": "Unidad de Zacatecas" ,
-        "number":"18"
+        "number":"18",
+        "image":" "
       },
       {
         "name": "Leona vicario Unidad Tecámac" ,
-        "number":"19"
+        "number":"19",
+        "image":" "
+      }
+    ],
+    "school2" : [
+      {
+        "name": "Walter Cross Buchanan" ,
+        "number":"1",
+        "image":" "
       }
     ]
 }
