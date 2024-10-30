@@ -7,7 +7,6 @@ async function getData(){
        .then(data => {
         // imprime los datos en consola
             console.log(data)
-            data
         })
        .catch(error => console.error('Error:', error));
 }
@@ -28,6 +27,13 @@ function deleteComments(element){
     console.log('Comentarios eliminados');
 }
 
+function printDocument(data){
+    const obj = JSON.parse(data);
+    document.getElementById('view-container').innerHTML=obj.name;
+    console.log('Documento impreso');
+}
 // datos en consola
 getData();
 deleteComments(document);
+
+
